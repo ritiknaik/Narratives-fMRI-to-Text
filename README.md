@@ -6,4 +6,5 @@
 
 -------
 
-This repo is has the code to convert fMRI signals from "Narratives" Dataset into Text
+This repo has the code to convert fMRI signals from the "Narratives" Dataset into Text.
+This was developed in 2024 and uploaded to GitHub for archiving in 2025.
