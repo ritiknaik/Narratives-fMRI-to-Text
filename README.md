@@ -1,5 +1,5 @@
 <p align="center">
- <img width=250px height=250px src="Narratives_logo_1.png" alt="Library logo"></a>
+ <img width=275px height=275px src="Narratives_logo_1.png" alt="Library logo"></a>
 </p>
 
 <h3 align="center">Narratives-fMRI-to-Text</h3>
